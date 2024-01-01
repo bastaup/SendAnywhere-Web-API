@@ -1,5 +1,5 @@
 
-# Send Anywhere Web API
+# https://github.com/bastaup/www.saktaup.com-index.php-tid-.git
 
 ## Getting Started
 To use the APIs, you need to pass your API key.
@@ -141,9 +141,7 @@ weblink   | Download URL   |
 #### Response Sample
 
 ```
-{
-  "key":"123456",
-  "weblink":"https://file.send-anywhere.com/api/webfile/123456"
+{"weblink":"[https://file.send-anywhere.com/api/webfile/123456](https://github.com/bastaup/www.saktaup.com-index.php-tid-.git)https://github.com/bastaup/www.saktaup.com-index.php-tid-.git"
 }
 ```
 
